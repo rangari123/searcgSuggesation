@@ -1,2 +1,2 @@
 # searcgSuggesation
-using html css and js
+using html css 
